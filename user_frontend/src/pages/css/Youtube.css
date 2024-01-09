@@ -1,0 +1,15 @@
+.custom-youtube {
+    width: '100%';
+    height: '100%';
+    border-radius: 5%;
+    overflow: hidden;
+}
+
+.hoverable:hover {
+    transform: scale(1.1);
+}
+
+.hoverable:active {
+    background-color: orange;
+}
+  
