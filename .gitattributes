@@ -1,0 +1,4 @@
+data/report/常州創業比賽＿初版.pptx filter=lfs diff=lfs merge=lfs -text
+data/report/常州創業比賽.pptx filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+data/report/*.pptx filter=lfs diff=lfs merge=lfs -text
